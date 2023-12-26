@@ -4,12 +4,12 @@ out/
 __pycache__/
 checkpoint**
 minimal-llama**
-upload.py
-lora-**
+
 *ckpt
 wandb
-evaluate.py
-test_data.json
-todo.txt
 .venv
 .vscode
+bitsandbytes/
+cache/
+gpt2/
+peft/
